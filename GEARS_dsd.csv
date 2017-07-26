@@ -21,3 +21,6 @@ Nevada Bureau of Mines and Geology Quaternary Faults of Western US,http,data.nbm
 Volcano Population Exposure Index,http,data.hdx.rwlabs.org,/dataset/a60ac839-920d-435a-bf7d-25855602699d/resource/e3b1ecf0-ec47-49f7-9011-6bbb7403ef6d/download/,volcano.csv,csv,False,False,None,None
 Significat Earthquakes from Past 30 Days as of 7/25/17,https,earthquake.usgs.gov,/earthquakes/feed/v1.0/summary/,significant_month.csv,csv,Fasle,False,None,None
 Gravity Survey Data from Glass Buttes Geothermal Exploration Project,http,gdr.openei.org,/files/858/,GlassButtes_Gravity.csv,csv,False,False,None,None
+GPS data collected at CORS sites, ftp,www.ngs.noaa.gov/CORS/data.shtml,ftp://geodesy.noaa.gov/cors/, None, Ascii, False, False, None, None
+NOAA NGS survey control map, http, www.ngs.noaa.gov/NGSDataExplorer/, https://catalog.data.gov/dataset/ngs-survey-control-map, None, Ascii, False, False, None, None
+Daily position time-series of GPS station BRDY, http, geodesy.unr.edu/gps_timeseries/tenv3/NA12/BRDY.NA12.tenv3, 	http://en.openei.org/doe-opendata/dataset/f0000000-e214-4c72-acd2-000000000497, RINEX, False, False, None, None
